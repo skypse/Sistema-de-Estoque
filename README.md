@@ -10,11 +10,11 @@ Este sistema foi desenvolvido em Python, utilizando as seguintes bibliotecas:
 - Tkinter: Para a criação da interface gráfica do usuário.
 - mysql.connector: Para a integração com o banco de dados MySQL.
 
-## Futuras Implementações
+## 💡 Futuras Implementações
 
 Eu anseio adicionar neste projeto uma lupa 🔍, onde você pode pesquisar o item e fazer alterações na hora da pesquisa, caso necessário. E também planejo fazer uma versão melhorada com Docker 🐳, que possivelmente já incluirá essa função desejada!
 
-## Funcionalidades Principais
+## 🛠️ Funcionalidades Principais
 
 - Adicionar produtos ao estoque.
 - Retirar produtos do estoque.
